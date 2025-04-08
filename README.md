@@ -2,10 +2,14 @@
 
 This project provides deep insights into workforce dynamics using a powerful and interactive HR analytics dashboard. The analysis includes employee demographics, department-wise income, attrition, job roles, and satisfaction levels.
 
+## 🧩 Problem Statement
+
+Organizations often struggle to identify the root causes behind employee attrition and performance issues. HR data remains underutilized due to a lack of visualization and actionable insights. This project aims to bridge that gap by creating an intuitive and interactive HR Analytics Dashboard that helps stakeholders make data-driven decisions.
+
 ## 📊 Dashboard Preview
 
 ![Image](https://github.com/user-attachments/assets/43918a58-1043-4b81-9d59-bd59f7b3ff1b)
-![Dashboard 2](./images/dashboard2.png)
+![Image](https://github.com/user-attachments/assets/4b226290-29fa-449f-a572-71b3e51931a2)
 
 ## 📁 Dataset
 
@@ -40,9 +44,9 @@ The dataset includes information such as:
 
 ## 🛠️ Tools Used
 
-- Power BI / Tableau
+- Power BI 
 - Excel (for data pre-processing)
-- Python (for optional data wrangling)
 
-## 📦 Folder Structure
+
+
 
