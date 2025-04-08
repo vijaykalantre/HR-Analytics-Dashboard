@@ -4,7 +4,7 @@ This project provides deep insights into workforce dynamics using a powerful and
 
 ## 📊 Dashboard Preview
 
-![Dashboard 1](./images/dashboard1.png)
+![Image](https://github.com/user-attachments/assets/43918a58-1043-4b81-9d59-bd59f7b3ff1b)
 ![Dashboard 2](./images/dashboard2.png)
 
 ## 📁 Dataset
